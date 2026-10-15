@@ -1,7 +1,3 @@
-
-cd ~/code
-
-cat > README.md <<'EOF'
 # Simple Python Port Scanner
 
 A lightweight TCP port scanner built with Python for learning
