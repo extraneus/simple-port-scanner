@@ -101,4 +101,3 @@ network policies.
 
 This project is available under the MIT License. See `LICENSE`
 for details.
-EOF
